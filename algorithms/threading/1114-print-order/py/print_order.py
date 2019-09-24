@@ -3,7 +3,7 @@ from threading import Condition
 from mypy.typing import Callable
 
 """
-    简单使用锁变量进行控制流程
+    简单使用变量进行控制流程
 """
 
 
